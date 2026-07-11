@@ -1,0 +1,5 @@
+cohere==7.0.5
+protobuf==7.35.1
+python-dotenv==1.2.2
+Requests==2.34.2
+streamlit==1.59.1
