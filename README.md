@@ -1,4 +1,4 @@
-# The Memory Vault - AI Multiverse Chatbot 🚀
+# 🏮 UPDATED 🏮 - AI Multiverse Chatbot 🚀
 
 Welcome to the UPDATED AI Multiverse Chatbot, a stateful Streamlit application built for the Virtual Summer Internship 2026: AI Builder Track at MirAI School of Technology. 
 
