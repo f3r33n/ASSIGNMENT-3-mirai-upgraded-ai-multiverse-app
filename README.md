@@ -14,7 +14,7 @@ https://youtu.be/ZthcLfVJ_hA?si=PJk375WqP6xEtDPq. 👈👈
 
 ---
 
-## 🛠️ What We Did In This Assignment
+## 🛠️ What I Did In This Assignment
 
 In this update, we systematically re-engineered the application flow to implement **Stateful UI Memory** and **API Context Tracking**:
 
