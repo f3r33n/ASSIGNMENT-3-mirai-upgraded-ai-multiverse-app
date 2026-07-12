@@ -9,7 +9,8 @@ This project upgrades a basic stateless chatbot into a fully capable conversatio
 ## 📺 Project Demonstration
 
 
-lv_0_20260712124931.mp4
+
+
 ---
 
 ## 🛠️ What We Did In This Assignment
