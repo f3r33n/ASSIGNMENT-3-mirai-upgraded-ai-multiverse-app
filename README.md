@@ -30,6 +30,8 @@ In this update, we systematically re-engineered the application flow to implemen
 *   **Core Logic:** Python 3.12 (with Session State management & Assignment Expressions)
 *   **AI Models Architecture:** Google GenAI SDK & Cohere V2 Client
 *   **Environment Management:** Python `python-dotenv`
+## 📄 License
 
+This project was created for educational purposes as part of the **MirAI School of Technology AI Builder Internship 2026**.
 ---
 *Developed with ❤️ by Faizan for MirAI School of Technology Internship 2026.*
